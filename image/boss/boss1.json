@@ -1,0 +1,44 @@
+{"frames": {
+
+"boss1-1.png":
+{
+	"frame": {"x":146,"y":2,"w":142,"h":144},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":142,"h":144},
+	"sourceSize": {"w":142,"h":144}
+},
+"boss1-2.png":
+{
+	"frame": {"x":2,"y":294,"w":142,"h":144},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":142,"h":144},
+	"sourceSize": {"w":142,"h":144}
+},
+"boss1-3.png":
+{
+	"frame": {"x":2,"y":148,"w":142,"h":144},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":142,"h":144},
+	"sourceSize": {"w":142,"h":144}
+},
+"boss1-4.png":
+{
+	"frame": {"x":2,"y":2,"w":142,"h":144},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":142,"h":144},
+	"sourceSize": {"w":142,"h":144}
+}},
+"meta": {
+	"app": "http://www.texturepacker.com",
+	"version": "1.0",
+	"image": "boss1.png",
+	"format": "RGBA8888",
+	"size": {"w":512,"h":512},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:0b260c5cb180d8b1f61dbf088e77f680$"
+}
+}

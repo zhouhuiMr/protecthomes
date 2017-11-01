@@ -1,0 +1,60 @@
+{"frames": {
+
+"boom1-1.png":
+{
+	"frame": {"x":2,"y":66,"w":30,"h":30},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":30,"h":30},
+	"sourceSize": {"w":30,"h":30}
+},
+"boom1-2.png":
+{
+	"frame": {"x":2,"y":34,"w":30,"h":30},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":30,"h":30},
+	"sourceSize": {"w":30,"h":30}
+},
+"boom1-3.png":
+{
+	"frame": {"x":2,"y":2,"w":30,"h":30},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":30,"h":30},
+	"sourceSize": {"w":30,"h":30}
+},
+"boom1-4.png":
+{
+	"frame": {"x":34,"y":2,"w":28,"h":24},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":28,"h":24},
+	"sourceSize": {"w":30,"h":30}
+},
+"boom1-5.png":
+{
+	"frame": {"x":34,"y":28,"w":16,"h":14},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":7,"w":16,"h":14},
+	"sourceSize": {"w":30,"h":30}
+},
+"boom1-6.png":
+{
+	"frame": {"x":52,"y":28,"w":14,"h":10},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":8,"w":14,"h":10},
+	"sourceSize": {"w":30,"h":30}
+}},
+"meta": {
+	"app": "http://www.texturepacker.com",
+	"version": "1.0",
+	"image": "boom1.png",
+	"format": "RGBA8888",
+	"size": {"w":64,"h":128},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:df53fea0a40596254babc40ce3175335$"
+}
+}

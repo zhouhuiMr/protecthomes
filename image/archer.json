@@ -1,0 +1,44 @@
+{"frames": {
+
+"archer0000.png":
+{
+	"frame": {"x":2,"y":376,"w":109,"h":185},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":0,"w":109,"h":185},
+	"sourceSize": {"w":139,"h":185}
+},
+"archer0001.png":
+{
+	"frame": {"x":2,"y":113,"w":133,"h":185},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":133,"h":185},
+	"sourceSize": {"w":141,"h":185}
+},
+"archer0002.png":
+{
+	"frame": {"x":2,"y":248,"w":126,"h":185},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":0,"w":126,"h":185},
+	"sourceSize": {"w":140,"h":185}
+},
+"archer0003.png":
+{
+	"frame": {"x":2,"y":2,"w":109,"h":186},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":25,"y":0,"w":109,"h":186},
+	"sourceSize": {"w":141,"h":186}
+}},
+"meta": {
+	"app": "http://www.texturepacker.com",
+	"version": "1.0",
+	"image": "archer.png",
+	"format": "RGBA8888",
+	"size": {"w":256,"h":512},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:852e3da5fc41e3e2ae309b9ea30115b7$"
+}
+}

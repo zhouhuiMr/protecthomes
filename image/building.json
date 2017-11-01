@@ -1,0 +1,132 @@
+{"frames": {
+
+"arrow.png":
+{
+	"frame": {"x":422,"y":112,"w":81,"h":13},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":81,"h":13},
+	"sourceSize": {"w":81,"h":13}
+},
+"balloon-1.png":
+{
+	"frame": {"x":422,"y":127,"w":74,"h":99},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":74,"h":99},
+	"sourceSize": {"w":74,"h":99}
+},
+"balloon-2.png":
+{
+	"frame": {"x":78,"y":407,"w":74,"h":99},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":74,"h":99},
+	"sourceSize": {"w":74,"h":99}
+},
+"balloon-3.png":
+{
+	"frame": {"x":2,"y":407,"w":74,"h":99},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":74,"h":99},
+	"sourceSize": {"w":74,"h":99}
+},
+"board.png":
+{
+	"frame": {"x":422,"y":2,"w":88,"h":58},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":58},
+	"sourceSize": {"w":88,"h":58}
+},
+"cliff.png":
+{
+	"frame": {"x":154,"y":2,"w":266,"h":161},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":266,"h":161},
+	"sourceSize": {"w":266,"h":161}
+},
+"cloud1.png":
+{
+	"frame": {"x":130,"y":165,"w":92,"h":51},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":92,"h":51},
+	"sourceSize": {"w":92,"h":51}
+},
+"cloud2.png":
+{
+	"frame": {"x":422,"y":62,"w":86,"h":48},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":86,"h":48},
+	"sourceSize": {"w":86,"h":48}
+},
+"cloud3.png":
+{
+	"frame": {"x":224,"y":165,"w":67,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":67,"h":49},
+	"sourceSize": {"w":67,"h":49}
+},
+"cloud4.png":
+{
+	"frame": {"x":330,"y":165,"w":89,"h":52},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":89,"h":52},
+	"sourceSize": {"w":89,"h":52}
+},
+"ground.png":
+{
+	"frame": {"x":330,"y":219,"w":200,"h":48},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":200,"h":48},
+	"sourceSize": {"w":256,"h":64}
+},
+"platform.png":
+{
+	"frame": {"x":130,"y":228,"w":170,"h":198},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":2,"w":170,"h":198},
+	"sourceSize": {"w":170,"h":200}
+},
+"rope.png":
+{
+	"frame": {"x":505,"y":112,"w":4,"h":46},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":4,"h":46},
+	"sourceSize": {"w":4,"h":46}
+},
+"rope2.png":
+{
+	"frame": {"x":498,"y":160,"w":10,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":10,"h":50},
+	"sourceSize": {"w":10,"h":50}
+},
+"tower.png":
+{
+	"frame": {"x":2,"y":2,"w":126,"h":403},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":126,"h":403},
+	"sourceSize": {"w":126,"h":403}
+}},
+"meta": {
+	"app": "http://www.texturepacker.com",
+	"version": "1.0",
+	"image": "building.png",
+	"format": "RGBA8888",
+	"size": {"w":512,"h":512},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:bb5a24453867c344d5286a243f0f3e16$"
+}
+}

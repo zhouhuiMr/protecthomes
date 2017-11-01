@@ -1,0 +1,76 @@
+{"frames": {
+
+"font_score.png":
+{
+	"frame": {"x":66,"y":2,"w":51,"h":28},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":2,"w":51,"h":28},
+	"sourceSize": {"w":55,"h":30}
+},
+"gameover.png":
+{
+	"frame": {"x":2,"y":58,"w":380,"h":108},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":8,"w":380,"h":108},
+	"sourceSize": {"w":400,"h":116}
+},
+"heart1.png":
+{
+	"frame": {"x":2,"y":2,"w":30,"h":30},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":30,"h":30},
+	"sourceSize": {"w":30,"h":30}
+},
+"heart2.png":
+{
+	"frame": {"x":34,"y":2,"w":30,"h":30},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":30,"h":30},
+	"sourceSize": {"w":30,"h":30}
+},
+"restart.png":
+{
+	"frame": {"x":503,"y":2,"w":190,"h":54},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":4,"w":190,"h":54},
+	"sourceSize": {"w":200,"h":58}
+},
+"rule.png":
+{
+	"frame": {"x":311,"y":2,"w":190,"h":49},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":5,"w":190,"h":49},
+	"sourceSize": {"w":200,"h":59}
+},
+"start.png":
+{
+	"frame": {"x":119,"y":2,"w":190,"h":48},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":5,"w":190,"h":48},
+	"sourceSize": {"w":200,"h":58}
+},
+"title.png":
+{
+	"frame": {"x":384,"y":58,"w":600,"h":169},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":600,"h":169},
+	"sourceSize": {"w":600,"h":169}
+}},
+"meta": {
+	"app": "http://www.texturepacker.com",
+	"version": "1.0",
+	"image": "character.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":256},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:7f776947f8ffff29fd18b25327b2e50c$"
+}
+}
